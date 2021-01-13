@@ -1,4 +1,5 @@
 theme: jekyll-theme-merlot
 title: Women's Mentoring Session @ AAAI-21
 show_downloads: false
-custom_footer_ribbon: Friday, February 5, 2021
+custom_footer_ribbon: true
+custom_footer_ribbon_text: Friday, February 5, 2021
