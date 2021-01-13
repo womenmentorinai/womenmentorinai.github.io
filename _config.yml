@@ -1,5 +1,4 @@
 theme: jekyll-theme-merlot
 title: Women's Mentoring Session @ AAAI-21
 show_downloads: false
-github.is_project_page: false
-github.is_user_page: false
+custom_footer_ribbon: Co-Chairs: Elena Zheleva (UIC), Maria Chang (IBM Research)
