@@ -60,8 +60,8 @@
       <footer>
         <span class="ribbon-outer">
           <span class="ribbon-inner">
-            {% if custom_footer_ribbon %}
-              <p>{{ custom_footer_ribbon }}
+            {% if site.custom_footer_ribbon %}
+              <p>{{ site.custom_footer_ribbon }}
             {% else %}
               {% if site.github.is_project_page %}
                 <p>this project by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a> can be found on <a href="{{ site.github.repository_url }}">GitHub</a></p>
