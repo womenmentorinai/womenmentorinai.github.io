@@ -5,10 +5,7 @@ Welcome to the women's mentoring session at AAAI-21! This year's event will be v
 - When: **Friday, February 5, 1:30 - 3:00 PM PT**
 
 ### Mentors
- . | .
---- | ---
-![](assets/img/HengJi.png) | [Heng Ji, Professor, University of Illinois at Urbana-Champaign](http://blender.cs.illinois.edu/hengji.html)<br /> Interests: natural langauge processing
-![](assets/img/HengJi.png) | [Natasha Noy, Senior Staff Research Scientist at Google Research](https://research.google/people/NatalyaNoy/)<br /> Interests: Semantic Web, structured data, search, open data
+
 
 
 ***
