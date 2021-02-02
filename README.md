@@ -5,7 +5,7 @@ Welcome to the women's mentoring session at AAAI-21! This year's event will be v
 - When: **Friday, February 5, 1:30 - 3:00 PM PT**
 
 ### Mentors
-
+Coming soon!
 
 
 ***
