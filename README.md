@@ -6,7 +6,7 @@ Welcome to the women's mentoring session at AAAI-21! This year's event will be v
 
 ### Mentors
 
-![](assets/img/HengJi.png) [Heng Ji, Professor, University of Illinois at Urbana-Champaign](http://blender.cs.illinois.edu/hengji.html)
+![]() [Heng Ji, Professor, University of Illinois at Urbana-Champaign](http://blender.cs.illinois.edu/hengji.html)
 
 
 
