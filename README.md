@@ -11,7 +11,7 @@ Welcome to the women's mentoring session at AAAI-21! This year's event will be v
 * [Francesca Rossi, IBM Fellow and AI Ethics Global Leader](https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Francesca.Rossi2); Keywords: constraint reasoning, preferences, multi-agent systems, computational social choice, and collective decision making
 * [Furong Huang, University of Maryland](https://furong-huang.com/); Keywords: High-dimensional statistics, Deep Learning Theory, Reinforcement Learning, Spectral Methods, Tensor Decompositions, Latent Variable Models
 * [Heng Ji, Professor, University of Illinois at Urbana-Champaign](http://blender.cs.illinois.edu/hengji.html); Keywords: natural language processing
-* [Jen Golbeck, Professor, University of Maryland](www.cs.umd.edu/~golbeck); Keywords: social media, personalization, user modeling, privacy
+* [Jen Golbeck, Professor, University of Maryland](http://www.cs.umd.edu/~golbeck); Keywords: social media, personalization, user modeling, privacy
 * [Judy Goldsmith, Professor of Computer Science, University of Kentucky](http://www.cs.uky.edu/~goldsmit); Keywords: Computational Social Choice, Opinions in Social Networks, CS Ethics Pedagogy, Computational Complexity
 * [Kiri Wagstaff, Principal Researcher, Jet Propulsion Laboratory, Associate Research Professor, Oregon State University](https://www.wkiri.com/); Keywords: machine learning, active learning, unsupervised learning and discovery, machine learning applications to natural science domains, competency-aware machine learning
 * [Laura Hiatt, Senior Research Scientist, Naval Research Laboratory](https://sites.google.com/site/lahiatt/home); Keywords: Human-robot interaction; cognitive science; planning, scheduling and execution
