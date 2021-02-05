@@ -6,6 +6,8 @@
 
 This year's event will be virtual, but the aim is still the same: to give women students in AI the opportunity to meet some of the great women that lead our field. This is a venue for discussing issues relevant to pursuing a successful career in AI, connecting with peers, and establishing mentor/mentee relationships that we hope will extend beyond this single event. No submissions are required, but this event is **open to registered participants only**.
 
+**Trouble joining?** Search your inbox and spam folders for an email with the subject `AAAI 2021 Women's Mentoring Session Confirmation`, which should have been sent to you within 24 hours of your registration.
+
 Agenda:
 * 1:40pm - Invited talk
 * 2:00pm - Breakout Session 1
