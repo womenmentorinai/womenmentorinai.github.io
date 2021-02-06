@@ -8,8 +8,8 @@ This year's event will be virtual, but the aim is still the same: to give women 
 
 **Trouble joining?** Search your inbox and spam folders for an email with the subject `AAAI 2021 Women's Mentoring Session Confirmation`, which should have been sent to you within 24 hours of your registration.
 
-Agenda:
-* 1:40pm - Invited talk
+**Agenda:**
+* 1:40pm - Invited talk: *[Beyond Birth, Marriage, and Death: Women's Self-Promotion in Academia](assets/Women’s Mentoring Session @AAAI Invited Talk.pdf)*, [Professor Jen Golbeck, University of Maryland](https://www.cs.umd.edu/~golbeck)
 * 2:00pm - Breakout Session 1
 * 2:30pm - Breakout Session 2
 
